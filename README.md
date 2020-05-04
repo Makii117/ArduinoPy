@@ -5,4 +5,4 @@ Requires an arduino uno and a 16x2 lcd for arduino
 
 Lcd Connections:
 
-![](lcd_Connections.jpg)
+<img src ="lcd_Connections.jpg" width="250">
